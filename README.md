@@ -1,4 +1,4 @@
-# EX-03 Name: DINESH KUMAR A (212223060057)
+# EX-02.a Name: DINESH KUMAR A (212223060057)
 # Write a Pulse-Code-Modulation program using Python.
 
 
